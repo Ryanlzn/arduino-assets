@@ -226,7 +226,7 @@ Planned projects and topics may include:
 
 ## 👤 Author
 
-**Ryanlzn**
+**L.Rayane**
 
 Arduino • Embedded Systems • Electronics • Simulation
 
