@@ -46,7 +46,11 @@ Projects related to controlling physical components and output devices.
 
 | Project                                    | Description                              | Tinkercad Simulation                   |
 |--------------------------------------------|------------------------------------------|----------------------------------------|
+<<<<<<< HEAD
 | [Servo Motor](./Actuators/servo_motor.ino) | Basic servo motor control using Arduino. | [Open Simulation](https://www.tinkercad.com/things/fvbfKNQOCNN-servo-motor?sharecode=ViSCuNv9-M4Ump57i3tfYaPLQ5rblNUmeVoG3_cLfx4) |
+=======
+| [Servo Motor](./Actuators/servo_motor.ino) | Basic servo motor control using Arduino. | [Open Simulation](https://www.tinkercad.com/things/5TFJfbtg63s-keypad) |
+>>>>>>> b6fb8146477e86600f63ebca4c2aae182a4cff98
 
 ------------------------------------------------------------------------
 
