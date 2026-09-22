@@ -46,7 +46,7 @@ Projects related to controlling physical components and output devices.
 
 | Project                                    | Description                              | Tinkercad Simulation                   |
 |--------------------------------------------|------------------------------------------|----------------------------------------|
-| [Servo Motor](./Actuators/servo_motor.ino) | Basic servo motor control using Arduino. | [Open Simulation](YOUR_TINKERCAD_LINK) |
+| [Servo Motor](./Actuators/servo_motor.ino) | Basic servo motor control using Arduino. | [Open Simulation](https://www.tinkercad.com/things/fvbfKNQOCNN-servo-motor?sharecode=ViSCuNv9-M4Ump57i3tfYaPLQ5rblNUmeVoG3_cLfx4) |
 
 ------------------------------------------------------------------------
 
@@ -56,8 +56,8 @@ Projects using digital input/output components and interfaces.
 
 | Project                                 | Description                                    | Tinkercad Simulation                   |
 |-----------------------------------------|------------------------------------------------|----------------------------------------|
-| [Keypad](./Digitals/keypad.ino)         | Interface between Arduino and a matrix keypad. | [Open Simulation](YOUR_TINKERCAD_LINK) |
-| [LCD Screen](./Digitals/lcd_screen.ino) | Display information using an LCD screen.       | [Open Simulation](YOUR_TINKERCAD_LINK) |
+| [Keypad](./Digitals/keypad.ino)         | Interface between Arduino and a matrix keypad. | [Open Simulation](https://www.tinkercad.com/things/5TFJfbtg63s-keypad?sharecode=mjDsHs6XylttVaTGi3-7LiDw63Q7HNSzaYFude-_rgU) |
+| [LCD Screen](./Digitals/lcd_screen.ino) | Display information using an LCD screen.       | [Open Simulation](https://www.tinkercad.com/things/7nF7j23K0UQ-lcd-screen?sharecode=aQxCYCanJf7iulG_JlyTbz-yq1NhPsA7g8VsuzSs4YQ) |
 
 ------------------------------------------------------------------------
 
@@ -68,12 +68,12 @@ environmental parameters.
 
 | Project                                                            | Description                                    | Tinkercad Simulation                   |
 |--------------------------------------------------------------------|------------------------------------------------|----------------------------------------|
-| [PIR Digital Sensor](./Sensors/digital_sensor_pir.ino)             | Motion detection using a PIR sensor.           | [Open Simulation](YOUR_TINKERCAD_LINK) |
-| [Gas Sensor](./Sensors/gaz_sensor.ino)                             | Reading values from a gas sensor.              | [Open Simulation](YOUR_TINKERCAD_LINK) |
-| [Gas Sensor + LEDs](./Sensors/gaz_sensor_with_Leds.ino)            | Gas detection with LED indicators.             | [Open Simulation](YOUR_TINKERCAD_LINK) |
-| [LDR Sensor](./Sensors/ldr_sensor.ino)                             | Measuring light intensity using an LDR.        | [Open Simulation](YOUR_TINKERCAD_LINK) |
-| [TMP36 Temperature Sensor](./Sensors/temperature_sensor_tmp36.ino) | Measuring temperature using a TMP36 sensor.    | [Open Simulation](YOUR_TINKERCAD_LINK) |
-| [Ultrasonic Sensor](./Sensors/ultra_sonic_Sensor.ino)              | Measuring distance using an ultrasonic sensor. | [Open Simulation](YOUR_TINKERCAD_LINK) |
+| [PIR Digital Sensor](./Sensors/digital_sensor_pir.ino)             | Motion detection using a PIR sensor.           | [Open Simulation](https://www.tinkercad.com/things/gS00lVgXfoR-digital-sensorpir?sharecode=zgtexZPvJeYwa3jcgAxHydt9udByyNp-PpSQ6NNXR8U) |
+| [Gas Sensor](./Sensors/gaz_sensor.ino)                             | Reading values from a gas sensor.              | [Open Simulation](https://www.tinkercad.com/things/fx8YMie9KE7-gas-sensor?sharecode=iX_6CxmY8uzSoqmTSlIeTxsmS78lAnxeULRoIrsa3jM) |
+| [Gas Sensor + LEDs](./Sensors/gaz_sensor_with_Leds.ino)            | Gas detection with LED indicators.             | [Open Simulation](https://www.tinkercad.com/things/dA6ymmOybYM-gaz-sensor?sharecode=pHVIxhi_CvQIpe-LsyCpCIF5f4Q41xsnoYWfIOpBfc4) |
+| [LDR Sensor](./Sensors/ldr_sensor.ino)                             | Measuring light intensity using an LDR.        | [Open Simulation](https://www.tinkercad.com/things/i6tb3ycnY4g-ldr-sensor-project?sharecode=W77U7zWppvKCbL6CihPBppIo62rTjVnzNim6IzVciS4) |
+| [TMP36 Temperature Sensor](./Sensors/temperature_sensor_tmp36.ino) | Measuring temperature using a TMP36 sensor.    | [Open Simulation](https://www.tinkercad.com/things/dPncrEe2nmm-temperature-sensotmp36?sharecode=5oCSDsDdeKZI_XM9kxL-GreN7cAJufpfkF_xtBfTSSU) |
+| [Ultrasonic Sensor](./Sensors/ultra_sonic_Sensor.ino)              | Measuring distance using an ultrasonic sensor. | [Open Simulation](https://www.tinkercad.com/things/6QILm5NGAkS-ultra-sonic?sharecode=uWArnCN9LykyozSgAFsX8spq0kihPZwmHvAncX9GGZw) |
 
 ------------------------------------------------------------------------
 
@@ -226,7 +226,7 @@ Planned projects and topics may include:
 
 ## 👤 Author
 
-**Ryanlzn**
+**L.Rayane**
 
 Arduino • Embedded Systems • Electronics • Simulation
 
